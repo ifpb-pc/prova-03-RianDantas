@@ -81,8 +81,8 @@ def organizar_alturas():
     lista1.append(lista[0])
     print(lista1)
 
-organizar_alturas()
 def main():
+    pass
     # Teste as questões que você desenvolveu manualmente:
     # idades = {
     #     "João Pessoa": 432,
@@ -105,11 +105,9 @@ def main():
     # resultado = q2(lista1, lista2)
     # print("q2:", resultado)
     
-    organizar_alturas()
+    # organizar_alturas()
 
 
 
-if __name__ == "__main__":
-    main()
-
-
+# if __name__ == "__main__":
+#     main()
